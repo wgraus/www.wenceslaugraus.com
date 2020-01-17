@@ -3060,10 +3060,10 @@ input, select, textarea {
 	}
 
 	.banner.onload-content-fade-right .content {
-		-moz-transition: opacity 5.75s ease-in-out, -moz-transform 5.75s ease-in-out;
-		-webkit-transition: opacity 5.75s ease-in-out, -webkit-transform 5.75s ease-in-out;
-		-ms-transition: opacity 5.75s ease-in-out, -ms-transform 5.75s ease-in-out;
-		transition: opacity 5.75s ease-in-out, transform 5.75s ease-in-out;
+		-moz-transition: opacity 3.75s ease-in-out, -moz-transform 3.75s ease-in-out;
+		-webkit-transition: opacity 3.75s ease-in-out, -webkit-transform 3.75s ease-in-out;
+		-ms-transition: opacity 3.75s ease-in-out, -ms-transform 3.75s ease-in-out;
+		transition: opacity 3.75s ease-in-out, transform 3.75s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-right .content {
@@ -3206,10 +3206,10 @@ input, select, textarea {
 		}
 
 	.banner.onload-image-fade-in .image img {
-		-moz-transition: opacity 5.75s ease-in-out;
-		-webkit-transition: opacity 5.75s ease-in-out;
-		-ms-transition: opacity 5.75s ease-in-out;
-		transition: opacity 5.75s ease-in-out;
+		-moz-transition: opacity 3.75s ease-in-out;
+		-webkit-transition: opacity 3.75s ease-in-out;
+		-ms-transition: opacity 3.75s ease-in-out;
+		transition: opacity 3.75s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-image-fade-in .image img {
@@ -8543,7 +8543,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/overlay1.png"), url("../../images/header.jpg");
+			background-image: url("../../images/overlay1.png"), url("../../images/header.webp");
 			background-size: auto,							cover;
 }
 
